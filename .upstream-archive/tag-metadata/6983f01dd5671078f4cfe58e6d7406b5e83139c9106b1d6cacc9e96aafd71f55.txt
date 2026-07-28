@@ -1,0 +1,6 @@
+Original tag name: 2.7-ultimate
+Original tag object: 230217ec11595d979922a4f636e92ade50608702
+Original target commit: 230217ec11595d979922a4f636e92ade50608702
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
